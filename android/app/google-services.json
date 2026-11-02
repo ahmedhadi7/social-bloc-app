@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "18658647310",
+    "project_id": "socialbloc",
+    "storage_bucket": "socialbloc.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:18658647310:android:acdbee8f3cbc62e1354b5f",
+        "android_client_info": {
+          "package_name": "com.example.social_bloc"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "18658647310-9bsnnuq1omj1ja7ga1o4oo2l0gggl6bm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBN-kySRbb8yPLqC2mhASZdHOrYx3dkoAw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "18658647310-9bsnnuq1omj1ja7ga1o4oo2l0gggl6bm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

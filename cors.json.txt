@@ -1,0 +1,15 @@
+
+[
+  {
+    "origin": [
+      "https://socialbloc.web.app",
+      "https://socialbloc.firebaseapp.com",
+      "http://localhost:49268",
+      "http://localhost:49271",
+      "http://localhost:63218"
+    ],
+    "method": ["GET", "HEAD", "OPTIONS"],
+    "responseHeader": ["Content-Type"],
+    "maxAgeSeconds": 3600
+  }
+]
